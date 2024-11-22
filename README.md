@@ -3,6 +3,9 @@ Sistema de Monitoramento de energia e Controle com ESP32 via MQTT e interface we
 Simulação WOKWI - Observação: para a simulação as funcioanlidades de conexão por wifi e mqtt foram retiradas por não haver suporte na plataforma.
 https://wokwi.com/projects/415290982399302657
 
+Video de demostração:
+https://youtu.be/cXemqMd5Luo
+
 Este projeto implementa um sistema de monitoramento e controle baseado no ESP32, utilizando um botão, sensor PIR, dois relés e integração com um servidor MQTT para monitoramento em tempo real. A lógica do sistema permite automação eficiente, conectividade online e controle remoto por meio de uma interface MQTT.
 
 🚀 Funcionalidades
